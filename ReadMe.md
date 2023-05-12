@@ -9,4 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DanielTroyano&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTroyano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lw2qLPol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrfyd6sxf6b9p609arjq.gif">
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
