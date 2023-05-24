@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Junior CS Student at Georgia Southern University<br><br>🌱 Currently learning Swift<br><br>🇮🇹 First generation US citizen and college student 🇪🇸<br><br>📚 4.0 GPA, President's list, Honor Society Officer 
+💻 Junior CS Student at Georgia Southern University<br><br>🌱 Currently learning Swift and C#<br><br>🇮🇹 First generation US citizen and college student 🇪🇸<br><br>📚 4.0 GPA, President's list, Honor Society Officer 
 
 
 # 💻 Tech Stack:
