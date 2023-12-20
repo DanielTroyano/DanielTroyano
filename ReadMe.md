@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Junior CS Student at Georgia Southern University<br><br>🌱 Currently learning Swift and C#<br><br>🇮🇹 First generation US citizen and college student 🇪🇸<br><br>📚 4.0 GPA, President's list, Honor Society Officer<br><br>🛠️ Currently interning at Southern Automation Logistics and Technology
+💻 Junior CS Student at Georgia Southern University<br><br>🌱 Currently learning React and Electron<br><br>🇮🇹 First generation US citizen and college student 🇪🇸<br><br>📚 4.0 GPA, President's list, Honor Society Officer<br><br>🛠️ Currently interning at Southern Automation Logistics and Technology
 
 
 # 💻 Tech Stack:
