@@ -25,5 +25,4 @@
 
 ### Stepwise Application
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository-name1)](https://github.com/yourusername/repository-name1)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepwiseapp&repo=download)](https://github.com/stepwiseapp/download)
