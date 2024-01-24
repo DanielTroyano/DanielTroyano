@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Junior CS Student at Georgia Southern University<br><br>🌱 Currently learning React and Electron<br><br>🇮🇹 First generation US citizen and college student 🇪🇸<br><br>📚 4.0 GPA, President's list, Honor Society Officer, Goel Scholar<br><br>🛠️ Currently building Stepwise: a user friendly automation application
+💻 Junior CS Student at Georgia Southern University<br><br>🌱 Currently learning React and Electron<br><br>🇮🇹 First generation US citizen and college student 🇪🇸<br><br>📚 4.0 GPA, President's list, Honor Society Officer, Goel Scholar<br><br>🛠️ Currently building a user friendly automation application known as Stepwise 👨🏻‍💻
 
 
 # 💻 Tech Stack:
