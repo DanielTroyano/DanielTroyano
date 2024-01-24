@@ -23,10 +23,15 @@
 
 
 
-### Stepwise Application
+### Hi there, I'm Daniel Troyano 👋
+
+[![DanielTroyano's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTroyano&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/DanielTroyano)
+
+### Contributions to Repositories
 
 **StepwiseApp Download**: A project I actively contribute to, focused on [add your description here].
 
-[![StepwiseApp Download](https://github-readme-stats.vercel.app/api/pin/?username=stepwiseapp&repo=download&show_owner=true&theme=graywhite)](https://github.com/stepwiseapp/download)
+<!-- Link to the repository -->
+[StepwiseApp Download Repository](https://github.com/stepwiseapp/download)
 
 <img align="middle" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lw2qLPol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrfyd6sxf6b9p609arjq.gif">
