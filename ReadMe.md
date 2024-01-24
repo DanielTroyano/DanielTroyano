@@ -25,4 +25,6 @@
 
 ### Stepwise Application
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stepwiseapp&repo=download)](https://github.com/stepwiseapp/download)
+[![StepwiseApp Download](https://github-readme-stats.vercel.app/api/pin/?username=stepwiseapp&repo=download&show_owner=true&theme=radical)](https://github.com/stepwiseapp/download)
+
+<img align="middle" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lw2qLPol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrfyd6sxf6b9p609arjq.gif">
