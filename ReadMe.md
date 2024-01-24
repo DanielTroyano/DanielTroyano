@@ -23,15 +23,7 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DanielTroyano&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DanielTroyano&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTroyano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=DanielTroyano&icon=4&color=12)](https://visitcount.itsvg.in)
+### Stepwise Application
 
-
-<img align="middle" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lw2qLPol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrfyd6sxf6b9p609arjq.gif">
-
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository-name1)](https://github.com/yourusername/repository-name1)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
