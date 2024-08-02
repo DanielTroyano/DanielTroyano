@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Senior CS Student at Georgia Southern University<br><br>🛠️ Currently using react, electron, autohotkey, and Firebase to build Stepwise: the most user friendly workflow automation application on Windows<br><br>📚 4.0 GPA, President's list, Honor Society Officer, Goel Scholar<br><br>🌱 First generation US citizen and college student
+💻 Senior CS Student at Georgia Southern University<br><br>🛠️ Currently using React, Electron, AutoHotkey, and Firebase to build Stepwise: the most user friendly automation application on Windows<br><br>📚 4.0 GPA, President's list, Honor Society Officer, Goel Scholar<br><br>🌱 First generation US citizen and college student
 
 
 # 💻 Tech Stack:
@@ -50,7 +50,7 @@
 </div>
 
 
-### Contributions to Repositories
+# Contributions to Repositories
 [StepwiseApp Download Repository](https://github.com/stepwiseapp/download)
 
 ###
