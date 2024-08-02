@@ -3,9 +3,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-733.gif"  />
 
-###
 
 
 # 💻 Tech Stack:
@@ -54,6 +52,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
+
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-733.gif"  />
 
 ###
 
