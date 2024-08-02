@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Senior CS Student at Georgia Southern University<br><br>🛠️ Currently using react, electron, autohotkey, and Firebase to build Stepwise: the go to, user friendly automation application<br><br>📚 4.0 GPA, President's list, Honor Society Officer, Goel Scholar<br><br><br><br>🌱 First generation US citizen and college student
+💻 Senior CS Student at Georgia Southern University<br><br>🛠️ Currently using react, electron, autohotkey, and Firebase to build Stepwise: the go to, user friendly automation application<br><br>📚 4.0 GPA, President's list, Honor Society Officer, Goel Scholar<br><br>🌱 First generation US citizen and college student
 
 
 # 💻 Tech Stack:
