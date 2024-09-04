@@ -60,7 +60,3 @@
 [StepwiseApp Download Repository](https://github.com/stepwiseapp/download)
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DanielTroyano/DanielTroyano/output/snake.svg" alt="Snake animation" />
