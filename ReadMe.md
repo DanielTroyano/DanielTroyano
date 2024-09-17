@@ -51,5 +51,3 @@
 </div>
 
 ###
-
-[StepwiseApp Download Repository](https://github.com/stepwiseapp/download)
