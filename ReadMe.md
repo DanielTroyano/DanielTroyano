@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Senior, honors CS Student at Georgia Southern University<br><br>🛠️ Currently using React and Electron to build Stepwise: the most user friendly RPA application on Windows<br><br>📚 4.0 GPA, President's list, Honor Society Officer, Goel Scholar<br><br>🌱 First generation US citizen and college student
+💻 Senior, honors CS Student at Georgia Southern University<br><br>🛠️ Lead Developer of Stepwise: The automation software built with simplicity in mind <br><br>📚 4.0 GPA, President's list, Honor Society Officer, Goel Scholar<br><br>🌱 First generation US citizen and college student
 
 ###
 
