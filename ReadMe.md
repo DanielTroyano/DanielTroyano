@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Senior, honors CS Student at Georgia Southern University<br><br><img src="StepwiseLogo.png" height="25" alt="Stepwise logo"  /> Lead Developer of Stepwise: The automation software built to be simple, affordable, and intuitive <br><br>📚 4.0 GPA, President's list, Honor Society Officer, Goel Scholar, LLM Researcher<br><br>🌱 First generation US citizen and college student
+💻 Senior, honors CS Student at Georgia Southern University<br><br><img src="StepwiseLogo.png" height="25" alt="Stepwise logo"  /> Lead Developer of <a href="https://www.hellostepwise.com"  target="_blank" title="Go to Stepwise app Website">Stepwise</a>: The automation software built to be simple, affordable, and intuitive <br><br>📚 4.0 GPA, President's list, Honor Society Officer, Goel Scholar, LLM Researcher<br><br>🌱 First generation US citizen and college student
 
 ###
 
