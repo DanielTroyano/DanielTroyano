@@ -24,8 +24,8 @@
 - 🧠 Honors CS Senior @ Georgia Southern (GPA 3.97) — President’s List, Honor Society Officer, Goel Scholar, LLM researcher  
 - 🏗️ **UDE Data Engineer @ NDA Signed** — Databricks • Azure • Power BI • Python • SQL  
 - 🧰 **Ex Software Developer @ Southern Automation Logistics & Technology** — C# • ASP.NET • JavaScript • SQL  
-- ⚡ **Founder & Lead Dev of** <a href="https://www.hellostepwise.com" target="_blank">Stepwise</a> — React + Electron app with Firebase/Node backend, Netlify/Gatsby marketing site  
-- 🤖 **Automation-first & quant-curious** — passionate about integrating AI/ML into real workflows and stock trading  
+- ⚡ **Founder & Lead Dev of** <a href="https://www.hellostepwise.com" target="_blank">Stepwise</a> — React + Electron app with Firebase/Node backend, Netlify/Gatsby website  
+- 🤖 **Automation-Eccentric & Quant-Curious** — Passionate about integrating AI/ML into real workflows and stock trading  
 - 🌱 First-gen U.S. citizen & college student
 
 ---
@@ -43,18 +43,18 @@
 ## 🚀 Featured Project — Stepwise
 Desktop automation that’s powerful, safe, and easy to learn.  
 - **Stack:** React • Electron • Firebase • Node • Netlify • Gatsby  
-- **Highlights:** Hotkey workflows · code-signed installer (EV) · growing user base  
+- **Highlights:** Hotkey/hotstring triggered workflows · code-signed installer (EV) · 1,000+ users accross the world  
 - 🔗 <a href="https://www.hellostepwise.com" target="_blank">hellostepwise.com</a>
 
 ### 🔬 Project Highlight — A.S.T.A. (Automated Stock Trading Application)
-- **What:** ML-assisted trading system (initial focus: NVDA)  
-- **Modeling:** XGBoost (gradient-boosted trees), trained on **4 years** NVDA; **K-Fold** validation  
 - **Stack:** Python • scikit-learn • Pandas • Alpaca Trading API  
-- **Goal:** Practical, risk-aware signals with an interface anyone can connect to Alpaca
+- **What:** ML-assisted trading system (initial focus: NVDA, APPL, MSFT, TSLA)  
+- **Modeling:** XGBoost (gradient-boosted trees), trained on **4 years** stock data from Yahoo Finance; **K-Fold** validation  
+- **Goal:** Practical, risk-aware signals with an interface anyone can connect to Alpaca to automate their stock trading
 
 ---
 
-## 🧱 Tech Stacks
+## 🧱 Tech Stacks / Proficiences
 
 ### Data Engineering
 <table>
@@ -95,7 +95,7 @@ Desktop automation that’s powerful, safe, and easy to learn.
   </tr>
 </table>
 
-### Frontend & Desktop
+### Desktop Apps (Frontend + Backend)
 <table>
   <tr>
     <td align="center">
@@ -164,7 +164,7 @@ Desktop automation that’s powerful, safe, and easy to learn.
 ---
 
 ## 🧪 Recent Focus
-- Production-ready data plumbing (quality checks, idempotent jobs, instrumentation)  
+- Production-ready egress data plumbing (quality checks, idempotent jobs, instrumentation)  
 - Explainable, validated ML (K-Fold CV), practical drift monitoring  
 - Shipping code-signed installers and safe automation for non-coders
 
@@ -172,4 +172,4 @@ Desktop automation that’s powerful, safe, and easy to learn.
 
 ## 🤝 Let’s Build
 I love turning messy processes into clean, measurable systems — from factory floors to finance pipelines.  
-**Open to collabs, internships, and full-time opportunities.** Reach out!
+**Open to collabs and full-time opportunities.** Reach out!
