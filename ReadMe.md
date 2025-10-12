@@ -36,9 +36,7 @@ Desktop automation that’s powerful, safe, and easy to learn.
 
 ---
 
-## 🧱 Tech Stack (Labeled & Grouped)
-
-> All icons are consistent and each item is labeled. Grids render as tables, so they won’t stack vertically.
+## 🧱 Tech Stacks
 
 ### Data Engineering
 <table>
@@ -53,7 +51,7 @@ Desktop automation that’s powerful, safe, and easy to learn.
       <img src="https://skillicons.dev/icons?i=azure" height="36" /><br/><sub>Azure</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="36" /><br/><sub>Power&nbsp;BI</sub>
+      <img src="https://img.icons8.com/color/48/power-bi-2021.png" height="36" /><br/><sub>Power&nbsp;BI</sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" height="36" /><br/><sub>SQL</sub>
@@ -74,7 +72,7 @@ Desktop automation that’s powerful, safe, and easy to learn.
       <img src="https://skillicons.dev/icons?i=javascript" height="36" /><br/><sub>JavaScript</sub>
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="36" /><br/><sub>MS&nbsp;SQL&nbsp;Server</sub>
+      <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="36" /><br/><sub>MS&nbsp;SQL&nbsp;Server</sub>
     </td>
   </tr>
 </table>
