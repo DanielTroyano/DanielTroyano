@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:daniel@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-daniel%40example.com-blue?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-handle" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/your-handle?tab=repositories" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repos-181717?logo=github&logoColor=white"></a>
+  <a href="mailto:troyano_daniel@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-daniel%40example.com-blue?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/danieltroyano" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/DanielTroyano?tab=repositories" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repos-181717?logo=github&logoColor=white"></a>
   <a href="https://www.hellostepwise.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Stepwise-111111?logo=googlechrome&logoColor=white"></a>
 </p>
 
