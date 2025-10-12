@@ -1,7 +1,7 @@
 <!-- Hero -->
 <h1 align="center">Daniel Aldo Troyano</h1>
 <p align="center">
-  Senior CS @ Georgia Southern · UDE Data Engineer (FinThrive) · Software Developer · Founder of Stepwise
+  Senior CS @ Georgia Southern · UDE Data Engineer · Software Developer · Founder of Stepwise
 </p>
 
 <p align="center">
@@ -10,6 +10,7 @@
   <a href="https://www.hellostepwise.com" target="_blank"><b>Stepwise</b></a> — Simple, Affordable, and Intuitive desktop automation
 </p>
 
+<!-- keep your existing badges/buttons -->
 <p align="center">
   <a href="mailto:troyano_daniel@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-troyano_daniel%40icloud.com-blue?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/danieltroyano" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
@@ -21,18 +22,35 @@
 
 ## 👋 About Me
 - 🧠 Honors CS Senior @ Georgia Southern (GPA 3.97) — President’s List, Honor Society Officer, Goel Scholar, LLM researcher  
-- 🏗️ **UDE Data Engineer @ FinThrive** — Databricks • Azure • Power BI • Python • SQL  
-- 🧰 **Software Developer @ Southern Automation Logistics & Technology** — C# • ASP.NET • JavaScript • SQL  
+- 🏗️ **UDE Data Engineer @ NDA Signed** — Databricks • Azure • Power BI • Python • SQL  
+- 🧰 **Ex Software Developer @ Southern Automation Logistics & Technology** — C# • ASP.NET • JavaScript • SQL  
 - ⚡ **Founder & Lead Dev of** <a href="https://www.hellostepwise.com" target="_blank">Stepwise</a> — React + Electron app with Firebase/Node backend, Netlify/Gatsby marketing site  
+- 🤖 **Automation-first & quant-curious** — passionate about integrating AI/ML into real workflows and stock trading  
 - 🌱 First-gen U.S. citizen & college student
+
+---
+
+## 🗺️ What I Used Where (at-a-glance)
+| Role / Project | Primary Tools |
+|---|---|
+| **Data Engineering** | Databricks · Azure · **Power BI** · Python · SQL |
+| **Software Engineering** | C# · ASP.NET · JavaScript · SQL |
+| **Stepwise — Desktop Automation** | React · Electron · Firebase · Node · Netlify · Gatsby |
+| **A.S.T.A. — Trading ML** | Python · XGBoost · scikit-learn · Pandas · Alpaca API · K-Fold CV |
 
 ---
 
 ## 🚀 Featured Project — Stepwise
 Desktop automation that’s powerful, safe, and easy to learn.  
 - **Stack:** React • Electron • Firebase • Node • Netlify • Gatsby  
-- **Highlights:** Hotkey workflows, code-signed installer, EV-cert process, growing user base  
+- **Highlights:** Hotkey workflows · code-signed installer (EV) · growing user base  
 - 🔗 <a href="https://www.hellostepwise.com" target="_blank">hellostepwise.com</a>
+
+### 🔬 Project Highlight — A.S.T.A. (Automated Stock Trading Application)
+- **What:** ML-assisted trading system (initial focus: NVDA)  
+- **Modeling:** XGBoost (gradient-boosted trees), trained on **4 years** NVDA; **K-Fold** validation  
+- **Stack:** Python • scikit-learn • Pandas • Alpaca Trading API  
+- **Goal:** Practical, risk-aware signals with an interface anyone can connect to Alpaca
 
 ---
 
@@ -139,16 +157,16 @@ Desktop automation that’s powerful, safe, and easy to learn.
 ---
 
 ## 📌 Experience Highlights
-- **UDE Data Engineer — FinThrive**: Databricks pipelines, Azure workloads, BI dashboards (Power BI), Python & SQL for analytics/ELT  
-- **Software Developer — Southern Automation Logistics & Technology**: C#, ASP.NET, JavaScript, SQL for industrial/ops software  
-- **Founder/Lead Developer — Stepwise**: Desktop automation app (React/Electron) with Firebase auth & Node orchestration; Netlify/Gatsby site
+- **UDE Data Engineer:** Databricks pipelines on Azure; **Power BI** dashboards; Python/SQL ELT with data quality checks  
+- **SALT (Software Developer):** Full-stack features in **C# / ASP.NET / JavaScript / SQL** for ops and reliability  
+- **Stepwise (Founder/Lead):** React/Electron desktop automation with Firebase auth & Node orchestration; Netlify/Gatsby site
 
 ---
 
 ## 🧪 Recent Focus
 - Production-ready data plumbing (quality checks, idempotent jobs, instrumentation)  
-- Explainable ML, robust CV (K-Fold), drift monitoring, and practical model hygiene  
-- Shipping signed installers and safe automation for non-coders
+- Explainable, validated ML (K-Fold CV), practical drift monitoring  
+- Shipping code-signed installers and safe automation for non-coders
 
 ---
 
