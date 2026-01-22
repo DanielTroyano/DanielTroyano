@@ -1,7 +1,7 @@
 <!-- Hero -->
 <h1 align="center">Daniel Aldo Troyano</h1>
 <p align="center">
-  Senior CS @ Georgia Southern · UDE Data Engineer · Software Developer · Founder of Stepwise
+  Summa Cum Laude B.S. Computer Science @GSU · Software Engineer @NDASigned · Founder of Stepwise
 </p>
 
 <p align="center">
