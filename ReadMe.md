@@ -21,7 +21,7 @@
 ---
 
 ## 👋 About Me
-- 🧠 Honors CS Senior @ Georgia Southern (GPA 3.97) — President’s List, Honor Society Officer, Goel Scholar, LLM researcher  
+- 🧠 **Summa Cum Laude graduate**: Georgia Southern University (GPA 3.97) — President’s List, Honor Society Officer, Goel Scholar, LLM researcher  
 - 🏗️ **UDE Data Engineer @ NDA Signed** — Databricks • Azure • Power BI • Python • SQL  
 - 🧰 **Ex Software Developer @ Southern Automation Logistics & Technology** — C# • ASP.NET • JavaScript • SQL  
 - ⚡ **Founder & Lead Dev of** <a href="https://www.hellostepwise.com" target="_blank">Stepwise</a> — React + Electron app with Firebase/Node backend, Netlify/Gatsby website  
